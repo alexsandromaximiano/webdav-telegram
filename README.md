@@ -13,7 +13,7 @@
 - `ACL_MODE`: ACL mode for users. Must be `whitelist` or `blacklist`. Default to `blacklist`
 
 ## Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jorgeajimenezl/webdav-telegram)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samucamg/webdav-telegram)
 
 ## Deploy with docker
 ```shell
